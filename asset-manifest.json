@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/CamperGo/static/css/main.47b40774.css",
+    "main.js": "/CamperGo/static/js/main.571138af.js",
+    "static/css/674.a45cb30b.chunk.css": "/CamperGo/static/css/674.a45cb30b.chunk.css",
+    "static/js/674.a4ac4f28.chunk.js": "/CamperGo/static/js/674.a4ac4f28.chunk.js",
+    "static/css/201.b43f7a06.chunk.css": "/CamperGo/static/css/201.b43f7a06.chunk.css",
+    "static/js/201.866b4888.chunk.js": "/CamperGo/static/js/201.866b4888.chunk.js",
+    "static/css/846.bf7ae3bf.chunk.css": "/CamperGo/static/css/846.bf7ae3bf.chunk.css",
+    "static/js/846.b1315e95.chunk.js": "/CamperGo/static/js/846.b1315e95.chunk.js",
+    "static/css/154.8ec8537a.chunk.css": "/CamperGo/static/css/154.8ec8537a.chunk.css",
+    "static/js/154.e23d29ed.chunk.js": "/CamperGo/static/js/154.e23d29ed.chunk.js",
+    "static/css/136.33705758.chunk.css": "/CamperGo/static/css/136.33705758.chunk.css",
+    "static/js/136.ca0456ee.chunk.js": "/CamperGo/static/js/136.ca0456ee.chunk.js",
+    "static/js/327.ec2aafcf.chunk.js": "/CamperGo/static/js/327.ec2aafcf.chunk.js",
+    "static/media/icons.svg": "/CamperGo/static/media/icons.2c4ff4e2bd62f76ec4d73fd7c923aab0.svg",
+    "index.html": "/CamperGo/index.html",
+    "main.47b40774.css.map": "/CamperGo/static/css/main.47b40774.css.map",
+    "main.571138af.js.map": "/CamperGo/static/js/main.571138af.js.map",
+    "674.a45cb30b.chunk.css.map": "/CamperGo/static/css/674.a45cb30b.chunk.css.map",
+    "674.a4ac4f28.chunk.js.map": "/CamperGo/static/js/674.a4ac4f28.chunk.js.map",
+    "201.b43f7a06.chunk.css.map": "/CamperGo/static/css/201.b43f7a06.chunk.css.map",
+    "201.866b4888.chunk.js.map": "/CamperGo/static/js/201.866b4888.chunk.js.map",
+    "846.bf7ae3bf.chunk.css.map": "/CamperGo/static/css/846.bf7ae3bf.chunk.css.map",
+    "846.b1315e95.chunk.js.map": "/CamperGo/static/js/846.b1315e95.chunk.js.map",
+    "154.8ec8537a.chunk.css.map": "/CamperGo/static/css/154.8ec8537a.chunk.css.map",
+    "154.e23d29ed.chunk.js.map": "/CamperGo/static/js/154.e23d29ed.chunk.js.map",
+    "136.33705758.chunk.css.map": "/CamperGo/static/css/136.33705758.chunk.css.map",
+    "136.ca0456ee.chunk.js.map": "/CamperGo/static/js/136.ca0456ee.chunk.js.map",
+    "327.ec2aafcf.chunk.js.map": "/CamperGo/static/js/327.ec2aafcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b40774.css",
+    "static/js/main.571138af.js"
+  ]
+}
