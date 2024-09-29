@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HannaPalianytsia.github.io/CamperGoApp/",
+  "homepage": "https://HannaPalianytsia.github.io/CamperGo/",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@reduxjs/toolkit": "^2.2.7",
